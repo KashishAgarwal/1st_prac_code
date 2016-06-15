@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string-array name="Title">
+        <item name="day1">Sun</item>
+        <item name="day2">Mon</item>
+        <item name="day3">Tue</item>
+        <item name="day4">Wed</item>
+        <item name="day5">Thu</item>
+        <item name="day6">Fri</item>
+        <item name="day7">Sat</item>
+
+    </string-array>
+    <string-array name="Description">
+        <item name="day1">Holiday</item>
+        <item name="day2">1st Working day</item>
+        <item name="day3">2nd Working day</item>
+        <item name="day4">3rd Working day</item>
+        <item name="day5">4th Working day</item>
+        <item name="day6">5th Working day</item>
+        <item name="day7">6th Working day</item>
+
+    </string-array>
+
+</resources>
