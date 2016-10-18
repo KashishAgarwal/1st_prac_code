@@ -9,7 +9,7 @@
 
         android:layout_width="254dp"
         android:layout_height="79dp"
-        android:text="Hi I am Kashish"
+        android:text="Hi I am Kashish Agarwal"
         android:textSize="30dp"
         android:textAlignment="center" />
 

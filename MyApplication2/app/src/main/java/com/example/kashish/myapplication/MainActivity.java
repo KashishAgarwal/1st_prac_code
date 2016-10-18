@@ -72,7 +72,7 @@ public class MainActivity extends Activity  {
                 });
 
 
-        Log.d("k","hello world");
+        Log.d("MainActivity","Hello World!");
     }
 
 
